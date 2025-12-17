@@ -5,7 +5,7 @@
 <p align="center"> <b>AVNC</b> is a VNC client for Android. </p>
 
 -------------------------------------------------------------------------------
-
+## avnc for XoDos
 
 ### Features
 - Material Design (with Dark theme)
